@@ -1,0 +1,7 @@
+zork
+└── [Jan 15 15:48]  cstacy
+    ├── [Jan  8  1989]  madadv.help
+    ├── [Jan  8  1989]  madadv.info
+    └── [Jan  8  1989]  madadv.save
+
+1 directory, 3 files
